@@ -1,0 +1,11 @@
+{
+  "name": "learn-some-mongo",
+  "version": "1.0.0",
+  "description": "My solutions to learnyoumongo exercises",
+  "main": "none.js",
+  "scripts": {
+    "test": "none.js"
+  },
+  "author": "Ameen Demidem",
+  "license": "ISC"
+}
