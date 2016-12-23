@@ -7,5 +7,8 @@
     "test": "none.js"
   },
   "author": "Ameen Demidem",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongo": "^0.1.0"
+  }
 }
